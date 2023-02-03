@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Heart Disease Prediction Project</title>
   </head>
   <body>
     <h1>Heart Disease Prediction Project</h1>
